@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "src/com.hanshiyi.ui",
+        "src"
+    ],
+    "java.dependency.syncWithFolderExplorer": true
+}
